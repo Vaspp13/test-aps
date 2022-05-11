@@ -1,0 +1,53 @@
+h1{
+    color:rgb(25, 0, 255);
+    font-size: 50px;
+}    
+body{
+    background-color: gray;
+
+    background-image: url("../imagens/otto.jpg"),url("../imagens/otto2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 20px;
+    color:white;
+
+    font-family: "Playfair Display",serif;
+
+}
+main{
+    background-color: rgba(25, 0, 255, 0.5);
+    padding: 10px 60px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+logo, .Manchete, .headline{
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+video{
+    margin: 0;
+    text-align: center;
+}
+
+article{
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(250, 200, 225);
+}
+.kitotto{
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.kitotto table{
+    background: rgba(25, 0, 255, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+
+}

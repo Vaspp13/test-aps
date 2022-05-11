@@ -1,0 +1,36 @@
+h1::first-line{
+    color:red;
+    text-decoration: overline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+}
+h2::first-letter{
+    color: blue;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    
+}
+
+h3::before{content: "Novo elemento"; 
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+h4{ 
+    text-decoration: none;
+    text-transform: initial;
+    text-indent: 50px;
+}
+h1{text-align: center;
+    line-height: 0.8%;
+        direction: rtl;
+    }
+h2{text-align: center;
+    letter-spacing: -1px;
+        word-spacing: 10px;
+}
+h3{text-align: right;
+        word-spacing: -5px;}
+h4{text-align: justify;
+        text-shadow: 1px 1px red;}
