@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">   
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robô Otto</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Playfair+Display&family=Roboto:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main>Robo retardado
+        <div class="logo">
+            <img src="imagens/otto3.jpg" alt="robo otto3" width="20%" height="20%">
+        </div>
+    
+<article>
+<h1 class="Manchete">Quem é otto?</h1>
+<p>O robô otto é o mais inutil do mundo!!!</p>
+    <figure>
+            <img src="imagens/otto2.jpg" alt="Robô e cachorro"
+            width="35%"height="35%">
+    </figure>
+</article>
+<hr>
+<div class="Kittoto">
+<h2 class="headline">Oque ele não consegue fazer?</h2>
+    <table>
+        <thead>
+            <tr>
+                <th> componente</th>
+                <th> Quantidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> Pés em PLA Branco</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td> Corpo em PLA Branco</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Cabeça verde em PLA</td>
+                <td>1</td>
+            </tr>
+        </tbody>
+    </table>
+        <div class="video">
+            <video width="320" height="240" controls="controls">
+                <source src="videos/ottomovie.mp4" type="video/mp4"/>
+            </video>   
+        </div>
+        </main>
+    
+</body>
+</html>
